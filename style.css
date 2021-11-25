@@ -1,0 +1,28 @@
+h1{
+  color: cadetblue;
+}
+
+img{
+  height: 200px;
+  width: 500px;
+}
+
+#navbar-primary.navbar-default {
+  background: transparent;
+  border: none;
+}
+
+.navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+
+.navbar-nav li {
+  display: inline-block;
+  float: none;
+}
+
+.navbar-nav {
+  padding-left: 30px;
+  padding-right: 30px;
+}
